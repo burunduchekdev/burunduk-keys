@@ -1,2 +1,2 @@
 # closed, works, obsolete
-works
+obsolete
